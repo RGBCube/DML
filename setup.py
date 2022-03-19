@@ -11,8 +11,9 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     url="https://github.com/RGBCube/dml",
-    version="1.0.0",
+    version="1.0.1",
     author="RGBCube",
     py_modules=["dml"],
+    packages=["dml"],
     license="MIT"
 )
