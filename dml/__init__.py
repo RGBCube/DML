@@ -8,7 +8,7 @@ __title__ = "DML"
 __author__ = "RGBCube"
 __license__ = "MIT"
 __copyright__ = "Copyright (c) 2022-present RGBCube"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from .encoder import *
 from .errors import *
